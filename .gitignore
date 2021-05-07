@@ -1,0 +1,5 @@
+build/
+dist/
+sniim.egg-info
+*.pyc
+node_modules/
